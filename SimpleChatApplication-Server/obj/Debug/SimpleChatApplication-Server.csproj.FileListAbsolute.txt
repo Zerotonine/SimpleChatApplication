@@ -1,0 +1,7 @@
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication-Server\bin\Debug\SimpleChatApplication-Server.exe.config
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication-Server\bin\Debug\SimpleChatApplication-Server.exe
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication-Server\bin\Debug\SimpleChatApplication-Server.pdb
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication-Server\obj\Debug\SimpleChatApplication-Server.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication-Server\obj\Debug\SimpleChatApplication-Server.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication-Server\obj\Debug\SimpleChatApplication-Server.exe
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication-Server\obj\Debug\SimpleChatApplication-Server.pdb

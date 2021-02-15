@@ -1,0 +1,15 @@
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\bin\Debug\SimpleChatApplication.exe.config
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\bin\Debug\SimpleChatApplication.exe
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\bin\Debug\SimpleChatApplication.pdb
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\App.g.cs
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication_MarkupCompile.cache
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication_MarkupCompile.lref
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\MainWindow.baml
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication.g.resources
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication.Properties.Resources.resources
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication.csproj.GenerateResource.cache
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication.exe
+C:\Users\Phil\source\repos\SimpleChatApplication\SimpleChatApplication\obj\Debug\SimpleChatApplication.pdb
